@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "971570577815",
+    "firebase_url": "https://test-24da5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-24da5",
+    "storage_bucket": "test-24da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971570577815:android:7ebc68ef880f769ea884d2",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971570577815-a4hinu9lm2r6762bikba3v7as8ui970l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbH32aRL16uStx2IGFrsRTLvx4-4h1zr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971570577815-a4hinu9lm2r6762bikba3v7as8ui970l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971570577815:android:b92041c094faa8aca884d2",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971570577815-a4hinu9lm2r6762bikba3v7as8ui970l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbH32aRL16uStx2IGFrsRTLvx4-4h1zr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971570577815-a4hinu9lm2r6762bikba3v7as8ui970l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971570577815:android:bfe9e615a0728581a884d2",
+        "android_client_info": {
+          "package_name": "com.example.upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971570577815-a4hinu9lm2r6762bikba3v7as8ui970l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbH32aRL16uStx2IGFrsRTLvx4-4h1zr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971570577815-a4hinu9lm2r6762bikba3v7as8ui970l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

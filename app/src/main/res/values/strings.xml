@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="Home">Home</string>
+    <string name="Favourite">Favourite</string>
+</resources>
