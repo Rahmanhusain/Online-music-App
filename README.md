@@ -4,7 +4,7 @@ Welcome to the Online-music-App! This App is ann online music player can play mu
 
 ## Features
 
-1. **Simple interface**: the Appliation is very simple to use.
+1. **Simple interface**: the Application is very simple to use.
 2. **Add Favourite**: We can add our favourite songs under favourites.
 3. **autoplay next song**: when song is over the next song plays automatically.
 4. **Search song**: We can also search song by there name in available songs.
